@@ -1,0 +1,951 @@
+HUM:ind What actor came to dinner in Guess Who 's Coming to Dinner ?
+NUM:count How many years ago did the ship Titanic sink ?
+LOC:country What two Caribbean countries share the island of Hispaniola ?
+ENTY:other What credit card features a centurion on its face ?
+ENTY:word Name the 5 words that use all of the letters in the alphabet , except Q , with no repeats .
+HUM:ind Who received the Will Rogers Award in 1989 ?
+ABBR:exp What does the `` c '' stand for in the equation E=mc2 ?
+LOC:city What city gained renown for its pea-soup fogs ?
+ENTY:cremat What was the first English play written exclusively for children ?
+ENTY:food Name Li 'l Abner 's favorite Indian drink .
+HUM:gr What South African producer had a 1988 profit of $836 million ?
+DESC:desc What 's the Olympic motto ?
+HUM:ind Which Rockefeller was sometimes called `` JDR3 '' ?
+DESC:def What is artificial intelligence ?
+DESC:desc Where did marijuana come from ?
+ENTY:cremat What was Connecticut 's first constitution called ?
+ENTY:cremat What poem contains the line , `` grow old with me the best is yet to be '' .
+HUM:ind Who is the father of the computer ?
+ENTY:cremat What film was based on the play Everybody Comes to Rick 's ?
+DESC:def What is a specimen of basidiomycetes ?
+ABBR:exp What is the full name of the PLO ?
+LOC:other Where can I find a world atlas map online at no charge ?
+HUM:ind CNN is owned by whom ?
+DESC:reason What are the factors leading to the high teen pregnancy rate in Spartanburg , South Carolina ?
+ENTY:techmeth What is the most efficient way to start a barbeque ?
+DESC:manner How do they get Teflon to stick to the pan ?
+NUM:date When was the first railroad from the east coast to the west coast completed ?
+LOC:other What attracts tourists to Reims ?
+HUM:gr Name the various super-teams to which the Angel has belonged .
+LOC:state What U.S. state is Mammoth Cave National Park in ?
+HUM:gr Who provides telephone service in Orange County , California ?
+DESC:reason What function does a community 's water tower serve ?
+HUM:ind What famous soldier was born in Europe , died in Asia , and was laid to rest in Africa ?
+NUM:period How long do flies live ?
+HUM:ind Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?
+LOC:country What country comes last in an alphabetical list ?
+NUM:count How many bends are there in a standard paper clip ?
+HUM:ind Who killed Kurt Cobain ?
+LOC:other Where can I find info on Alexander Mackenzie ?
+NUM:date What season does a hiemal activity normally take place in ?
+NUM:count How many Vietnamese were there in the Soviet Union ?
+HUM:ind What actor learned to play the saxophone and speak Russian for a role in a movie ?
+DESC:def What is Srpska Krajina ?
+DESC:reason Why do pressure cookers save time in the kitchen ?
+HUM:gr What college did Dikembe Mutombo play basketball for ?
+ENTY:event What is the name of the 1919 occurrence in which British troops killed over 3 unarmed Indian protestors ?
+LOC:country What country is the largest diamond producer ?
+LOC:other What California desert is dubbed High Desert ?
+DESC:def What is an aortic abdominal aneurysm ?
+ENTY:animal What was the orca 's name that died of a fungal infection at Sea World ?
+ENTY:animal What is `` the bear of beers '' ?
+HUM:gr What diamond producer controls about 80% of the world 's diamonds ?
+ENTY:dismed What is a fear of speaking ?
+DESC:desc What do you say to a friend who ignores you for other friends ?
+LOC:other Where was George Washington born ?
+NUM:period What is the recomended age to switch a child from a crib to a bed ?
+ENTY:other What 's the highest possible bid in Contract Bridge ?
+HUM:ind Which member of the Micronauts spent 1 years traveling the Microverse in the Marvel comics ?
+LOC:city What city is served by McCarren Airport ?
+HUM:ind What 's the name of the actress who starred in the movie , `` Silence of the Lambs '' ?
+DESC:manner How close a cousin was Franklin D. to Theodore Roosevelt ?
+ENTY:other What trade did the 15th and 16th century Portuguese hope to control between Asia and Europe ?
+DESC:manner How can you tell when figs are ripe ?
+NUM:date When was the De Beers company founded ?
+LOC:other Where does most of the marijuana entering the United States come from ?
+ENTY:termeq What is the former name of Zimbabwe ?
+ENTY:animal What was the name of the horse that fell on Queen Elizabeth , Prince Albert 's wife ?
+HUM:gr What was the name of Humphrey Bogart 's club in Casablanca ?
+DESC:reason What makes a tornado turn ?
+DESC:manner How do I know if I 'm jealous of someone ?
+LOC:other What were the first bodies visited by spacecraft ?
+LOC:city What town was the setting for The Music Man ?
+ENTY:dismed What chemicals are used in lethal injection ?
+HUM:ind Who claimed to be the world 's most perfectly-developed man ?
+HUM:ind What was William F. Cody 's better-known name ?
+HUM:desc Who is the `` Queen Mother '' ?
+NUM:count How many shillings more than 2 were there in a guinea ?
+ENTY:other What does a woman want ?
+HUM:ind What actor married John F. Kennedy 's sister ?
+HUM:ind Who was the star of Leave It to Beaver ?
+DESC:def What are the Poconos ?
+ENTY:dismed What is another term for the painful wrist syndrome ?
+DESC:def What 's a water funnel ?
+DESC:manner How has TV affected our society ?
+DESC:def What is a philanthropist ?
+HUM:ind Who made the musical plea Be True to Your School ?
+HUM:ind Who is stationed at Camp Swampy in the comic strips ?
+NUM:date When is President Nixon 's birthday ?
+DESC:manner How do I find a web address for a company ?
+LOC:other What bay sparkles next to Miami , Florida ?
+HUM:ind Who was the star of the 1965 Broadway hit Golden Boy ?
+NUM:count How many feet are there in a fathom ?
+HUM:ind Who was the supreme god of Germanic religion ?
+DESC:def What is paracetamol ?
+HUM:ind President Bush compared Saddam Hussein to whom ?
+ENTY:animal What species is a colt ?
+HUM:gr Which company that manufactures video-game hardware sells the `` super system '' ?
+NUM:period How old is the universe ?
+LOC:country What country , after Canada and Mexico , is closest to the U.S. ?
+ENTY:color What color is the cross on Switzerland 's flag ?
+LOC:other What 's the name of the Wilkes plantation in Gone with the Wind ?
+HUM:ind Who made the most appearances in the center square on Hollywood Squares ?
+ENTY:cremat What British TV series inspired All in the Family ?
+NUM:weight What is the weight of air ?
+ENTY:instru What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?
+NUM:weight How many pounds are there in a stone ?
+NUM:count How many fingers are used to draw a bow ?
+DESC:manner How is energy created ?
+ENTY:food What cooking oil has `` corn goodness '' ?
+ENTY:cremat What Morris West novel deals with Russian bishop who becomes Pope ?
+NUM:count How many major Nazi leaders went on trial after the war at Nuremberg ?
+NUM:count How many Beanie Baby sites are there ?
+HUM:gr What Cruise Line does Kathie Lee Gifford advertise for ?
+DESC:desc What are the words to the Canadian National anthem ?
+DESC:desc What did Mighty Mouse always sing as he went into action ?
+ENTY:other What did the forward-thinking Simon Brothers Bakery of Chicago insert into bagels to boost business ?
+ENTY:sport What sport was the first televised in the U.S. ?
+HUM:ind Who holds the NFL record for most touchdowns in a season ?
+DESC:reason Why is the universe flat , if it started by an explosion , shouldn 't it be a sphere ?
+NUM:date What time of day did Emperor Hirohito die ?
+ENTY:cremat What D.H. Lawrence novel was originally titled Tenderness ?
+ENTY:cremat What was Mel Gibson 's first movie ?
+HUM:ind Who is the author of the book , `` The Iron Lady : A Biography of Margaret Thatcher '' ?
+ENTY:cremat What was Edward Albee 's first full-length play ?
+DESC:manner How do you calculate the change in enthalpy of a chemical reaction ?
+DESC:def What 's the meaning of the name Tatiana ?
+LOC:other What is the name of the planet that the Ewoks live on ?
+HUM:ind What President was meant for , but never placed in , the empty crypt beneath the capital 's rotunda ?
+HUM:ind What Frenchman claimed the following ? If God did not exist , it would be necessary to invent him . ''
+DESC:def What does the name `` Sheri '' mean ?
+HUM:ind What are the top boy names in the U.S. ?
+HUM:ind Who portrayed the title character in the film The Day of the Jackal ?
+HUM:ind Who is the one Independent Member of Congress ?
+HUM:gr What radio station did Paul Harvey work for ?
+LOC:other What prison is found in Ossining , New York ?
+HUM:ind Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?
+DESC:reason Why do horseshoes bring luck ?
+ENTY:food What two vegetables are combined in succotash ?
+ABBR:exp What does JESSICA mean ?
+NUM:period How long does it take sunlight to reach Earth ?
+ENTY:body What carries sperm up into the pelvic region ?
+NUM:code What is the airport code for Los Angeles International ?
+NUM:other What 's a perfect score in a gymnastics exercise ?
+HUM:ind What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars ?
+NUM:date When do you plant winter wheat ?
+DESC:reason Why do we have to go to school ?
+HUM:gr What ethnic group introduced the idea of potlatch ?
+HUM:ind Who wrote Sons and Lovers ?
+HUM:ind Who wrote the book , `` The Grinch Who Stole Christmas '' ?
+NUM:money What is the current ticket fare from from Cairo to Barbados ?
+ENTY:cremat In which Tennessee Williams play is one of the characters killed and devoured by a mob of starving children ?
+DESC:def What is chromatology ?
+LOC:other What bay divides Maryland 's Eastern and Western Shores ?
+HUM:ind Who was the accused in The Trial of the Century , which opened Janurary 1 , 1935 ?
+HUM:ind What famous communist leader died in Mexico City ?
+LOC:other Where do the adventures of `` The Swiss Family Robinson '' take place ?
+DESC:desc What is the difference between a board of directors and an advisory board ?
+ENTY:event What is the name of the American literary era that includes 1896 ?
+HUM:ind Who won the 1968 California Democratic primary ?
+NUM:count How many three-letter permutations can be made from the four letters : c ?
+NUM:count How much will the California be in the year 2000 ?
+NUM:date What date is Richard Nixon 's birthday ?
+NUM:period How long was the TV mission of Star Trek 's Enterprise to be ?
+HUM:ind Who succeeded Nikita Khrushchev as first secretary of the Communist Party ?
+NUM:count How many questions are on this thing ?
+ENTY:cremat What is the longest-running television series ?
+ENTY:other What five cards make up a perfect Cribbage hand ?
+HUM:ind Who won the Battle of Gettysburg ?
+ENTY:substance What does saliva consist of ?
+DESC:desc Where did the term `` 86ed '' come from ?
+DESC:def What is a multiplexer ?
+ENTY:other What 's the highest hand in straight poker ?
+DESC:reason Why didn 't European colonial rule spread until after the first and second industrial revolutions ?
+ENTY:other What is Nebraska 's most valuable resource ?
+HUM:ind What President served for five years , six months and 2 days ?
+ABBR:abb What is the correct way to abbreviate cc. at the bottom of a business letter ?
+ENTY:cremat What William Styron book is about a black preacher who leads a slave revolt ?
+ENTY:dismed What 12-hour cold medicine uses the formula `` 6 , 6 , 12 '' in its ads ?
+NUM:date What day is August 13 , 1971 ?
+NUM:count How many people did Randy Steven Craft murder ?
+LOC:state What are all the southern states of the United States ?
+LOC:country What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
+HUM:ind Who was the 3rd president of the United States ?
+LOC:city In what city is the US Declaration of Independence located ?
+HUM:ind What Good Little Witch is Casper 's girlfriend ?
+ENTY:other What meter was invented by C.C. Magee in 1935 ?
+ENTY:other What constitutes an adult ?
+DESC:def What is a green bog ?
+LOC:country What desert country borders Saudi Arabia , Iraq and the Persian Gulf ?
+DESC:def What are dingoes ?
+NUM:date When was the NFL established ?
+ENTY:termeq What 's the geographic term for the submerged fringe of a continent ?
+ENTY:dismed What disease is the second-biggest killer of North Americans ?
+NUM:count How many flavors of ice cream does Howard Johnson 's have ?
+DESC:manner How do I find if my relatives were on the Trail of Tears ?
+HUM:ind Who 's the founder and editor of The National Review ?
+ENTY:other What did The Gas House Gang play ?
+DESC:def What is the biblical meaning of ` stones ' ?
+HUM:ind What English queen had seventeen children ?
+NUM:period How old is the sun ?
+LOC:other Where does the Santa Fe Trail begin and end ?
+DESC:manner How did Super President gain his powers on the animated series ?
+ENTY:sport What type of betting is used in horse racing ?
+DESC:desc What happened in the city of Dogtown in 1899 ?
+NUM:date When did Princess Diana and Prince Charles get married ?
+HUM:ind Who was in Death of a Salesman original movie , not 1985 ?
+NUM:count How many people died when the Estonia sank in 1994 ?
+DESC:reason For what reason did some San Diego schools stop serving apples ?
+DESC:def What is a phalanx ?
+LOC:city What were the first three cities to have a population of more than a million ?
+DESC:reason Why do heavier objects travel downhill faster ?
+HUM:ind Who was the girl in Peter Sellers 's soup ?
+LOC:other What are all the rivers in Europe ?
+NUM:count How many counties are in Indiana ?
+NUM:date When did communist control end in Hungary ?
+ENTY:techmeth What does the method called `` cold fusion '' create ?
+LOC:city What city boasts the Billingsgate fishmarket ?
+DESC:def What is multimedia ?
+NUM:date When were fish first believed to be found on earth ?
+ENTY:food What was the first ready-to-eat breakfast cereal ?
+NUM:date When did Lucelly Garcia , a former ambassador of Columbia to Honduras , die ?
+DESC:manner How can I get a CCT diagram ?
+DESC:desc What is `` the computer for the rest of us '' ?
+DESC:desc What did FCC chairman Newton Minow declare TV to be on May 9 , 1961 ?
+HUM:ind Who is the Voyager project manager ?
+ENTY:product What garment was named for Bradley , Voorhees and Day ?
+HUM:ind Who was the architect of Central Park ?
+DESC:manner How do you write MLA style bibliographies for an Internet source ?
+HUM:ind What member of The Little Rascals has an on-again , off-again sweetheart in Darla Hood ?
+DESC:desc What happened to Pompeii ?
+HUM:ind What famous comic strip character died of acne ?
+ENTY:termeq What is the nickname of the Cleveland Indians ?
+DESC:desc What facial feature did Walt Disney sport that none of Disney 's employees is allowed to ?
+NUM:date When was the first Wall Street Journal published ?
+LOC:other What are the biggest Indian airports ?
+HUM:ind Who played Lucas McCain on The Rifleman ?
+ENTY:sport What sports event is Meyer Wolfsheim supposed to have fixed in The Great Gatsby ?
+HUM:ind What President once told Gene Autry : `` Please give my regards to your wife Dale '' ?
+ENTY:food What are all the different types of pizza ?
+NUM:period How old is singer Freedy Johnston ?
+NUM:date When was the bar-code invented ?
+HUM:gr What major league baseball team compiled the best won-lost record between 1957 and 1983 ?
+HUM:ind Who taught Matt Murdock to use his extraordinary abilities in Marvel comics ?
+HUM:ind Who turned all he touched to gold ?
+LOC:city What Nevada center has been dubbed The Biggest Little City in the World ?
+ABBR:abb What is Mikhail Gorbachev 's middle initial ?
+ENTY:other What is the biggest `` thing '' humans have made ?
+ENTY:cremat What literary classic centers on the search for a treasure in gold worth 7 , 0 pounds ?
+ENTY:letter What are the first and last letters of the Greek alphabet ?
+DESC:reason Colin Powell is famous for what ?
+ABBR:exp What does the abbreviation OAS stand for ?
+ENTY:instru Ray Charles is best known for playing what instrument ?
+NUM:date When was Calypso music invented ?
+HUM:ind What well-known music personality is the father of an adopted son named Hans Christian Henderson ?
+HUM:ind Who starred in Singing in the Rain and The Singing Nun ?
+ABBR:exp What is DEET ?
+DESC:reason Why should cigarette smoking be banned ?
+LOC:other Where is your corpus callosum ?
+ENTY:termeq What other name were the `` Little Rascals '' known as ?
+LOC:city What Russian city used to be called St. Petersburg and Petrograd ?
+DESC:def How is thalassemia defined ?
+ENTY:termeq What 's the common name for acetylsalicylic acid ?
+ENTY:animal What are the three animals in Sheila Burnford 's The Incredible Journey ?
+LOC:city What were the first three cities to have a population of more than a million ?
+LOC:other Where in the Bible does it tell about Jesus Christ 's brothers and sisters ?
+HUM:ind Who invented basketball ?
+ABBR:exp What does R.E.M. stand for , as in the rock group R.E.M. ?
+DESC:def What are binomial coefficients ?
+HUM:ind What costume designer decided that Michael Jackson should only wear one glove ?
+ENTY:animal In the Miller Lite TV commercial , who is the creature ?
+ENTY:animal What was the name of Baretta 's cockatoo ?
+ENTY:termeq What 's a Craps player called ?
+NUM:count How many different types of skunks are there ?
+HUM:ind What role do fruits play in the survival of plants ?
+ABBR:exp What does VCR stand for ?
+DESC:desc What will the weather be today ?
+HUM:ind Who died 1 feet from where John F. Kennedy did ?
+HUM:ind Who wrote The Red Badge of Courage ?
+HUM:gr What organization has a Security Council ?
+ENTY:color What color Poker chip is usually assigned the lowest value ?
+LOC:state What eastern state sprouted the first commercial nuclear power plant in the U.S. ?
+NUM:period How long does a pig 's orgasm last ?
+HUM:ind What dumb-but-loveable character did Maurice Gosfield play on The Phil Silvers Show ?
+HUM:ind What dummy received an honorary degree from Northwestern University ?
+LOC:other Where is Rider College located ?
+NUM:dist What are the lengths of pearl necklaces ?
+NUM:count How many colors was the 1940s collectible called a Donald Duck Rubber Boat ?
+LOC:state In what U.S. state was the first woman governor elected ?
+LOC:other Where is `` Global Schoolhouse '' ?
+NUM:date When did the Dow first reach ?
+NUM:count How many Stradivarius violins were ever made ?
+HUM:ind What author was appointed U.S. ambassador to Spain in 1842 ?
+HUM:ind Who 's the twin brother of the Greek goddess Artemis ?
+NUM:perc What is the probability that at least 2 out of 25 people will have the same birthday ?
+NUM:count How many holes are there in a tenpin bowling ball ?
+ENTY:other Which side should a bowler facing a 37803 split hit the 3-pin on-the left or the right ?
+HUM:ind Which of the following famous people does not paint as a hobby ?
+DESC:manner How can I get my product licensed by the NBA ?
+HUM:ind Who wrote Unsafe at Any Speed ?
+ENTY:sport What four tournaments make up tennis ' Grand Slam ?
+ENTY:dismed What is the most common kind of skin cancer in the U.S. ?
+ENTY:cremat Name the only extant trilogy of classical Greek plays .
+DESC:manner How is carbon dioxide removed from natural gas ?
+DESC:desc What do Japanese school uniforms look like ?
+HUM:ind What TV sitcom character had the maiden name Ethel Potter ?
+DESC:desc What 's the origin of the word ` news ' ?
+LOC:other What was the birthplace of Edgar Allen Poe ?
+NUM:count How many people lived in Nebraska in the mid 1900s ?
+ENTY:cremat What 1956 Grace Metalious novel was on the best-seller list for two years ?
+ENTY:dismed What does a man suffering from diphallic terata have ?
+LOC:other What airport is on the Piccadilly subway line ?
+DESC:def What is a pig in a poke ?
+ENTY:product What product did Robert Conrad dare people to knock off his shoulder ?
+ENTY:termeq What is the dot on an the letter i called ?
+DESC:def What are amaretto biscuits ?
+ENTY:other What 's bottled in jeroboams ?
+HUM:ind Who was the mother of the man who would not be king , the duke of Windsor ?
+HUM:ind Which of the Seven Dwarfs comes first alphabetically ?
+LOC:country What African country was founded by freed American slaves in 1847 ?
+NUM:period How old is Benny Carter ?
+DESC:def What does the theory of quantum leaps mean in simpler terms ?
+ENTY:sport What hide-and-seek game is played around a tin can ?
+LOC:other Where was George Washington born ?
+HUM:ind Whose video is titled Shape Up with Arnold ?
+LOC:city What city is the Kentucky Horse Park near ?
+DESC:def What is dew point ?
+ENTY:substance What molecules include fluorine , sodium and magnesium ?
+LOC:city What city hosted the first Winter Olympics in Asia ?
+LOC:other What is the Homelite Inc. home page ?
+NUM:count How many inches apart are adjacent pins in tenpin bowling ?
+ENTY:other Which sex is twice as likely to contract leprosy ?
+HUM:ind What contemptible scoundrel stole the cork from my lunch ?
+DESC:def What is endometriosis ?
+DESC:manner How does a parachute work ?
+DESC:desc Where did the energy for the Big Bang come from ?
+NUM:count How many horses are there on a polo team ?
+DESC:def What is the Internet2 ?
+ENTY:other What is the organizational structure of the New Delhi Indira Gandhi airport ?
+ENTY:cremat What Hermann Hesse book gave its name to a rock group ?
+LOC:other Where can an individual get a contact lens tested that burned the entire surface of eye when new ?
+ENTY:other Which side of the face do most artists tend to show more of in self-portraits ?
+ENTY:other At Christmas time , what is the traditional thing to do under the mistletoe ?
+HUM:ind What Soviet leader owned a Rolls-Royce ?
+NUM:count How many milligrams are in a gram ?
+NUM:count How many varieties of apple are there ?
+NUM:count How many types of lemurs are there ?
+LOC:country Name the country which Honecker lived in .
+DESC:desc What are people doing to help prevent the extinction of birds ?
+HUM:ind Who was President of Afghanistan in 1994 ?
+LOC:country What country has the most time zones , with 11 ?
+NUM:code What is the telephone number for the University of Kentucky ?
+HUM:ind Who founded the Unification Church ?
+HUM:gr What Polynesian people inhabit New Zealand ?
+DESC:desc What is the difference between microprocessors & microcontrollers ?
+DESC:def What is platinum ?
+DESC:manner How were the days of the week named ?
+DESC:def What is a serigraph ?
+HUM:gr Rotary engines were manufactured by which company ?
+DESC:manner How does food color affect how you think it will taste ?
+ENTY:other What kind of science is cosmology ?
+ENTY:animal What was the name of the orca that died of a fungal infection ?
+DESC:def What does Melissa mean ?
+NUM:other What is the approximate population of Las Vegas , N.M ?
+ENTY:other What 's the shape of a camel 's spine ?
+ENTY:color In order from the top , the four stripes on a can of Pepsi are what colors ?
+NUM:weight What is the approximate weight of a teaspoon of matter in a black hole ?
+HUM:ind What two New York Yankee pitchers swapped wives and families ?
+LOC:country What two European countries entered the War of American Independence against the British ?
+HUM:gr What Japanese manufacturer is known for both its pianos and its motorcycles ?
+NUM:count How many spears are there on Kenya 's flag ?
+DESC:manner How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?
+HUM:ind What Catch-22 character is elected mayor of half a dozen Italian cities ?
+LOC:mount What is the name of the tallest mountain in the world ?
+ENTY:veh What was the sister ship of the Olympic ?
+DESC:desc What is the origin of the candy cane at Christmas ?
+DESC:manner How do you write a book report ?
+LOC:other Where can you find the Venus flytrap ?
+HUM:ind What is Supergirl 's secret identity ?
+HUM:ind Who co-starred with Julie Andrews in Mary Poppins ?
+ENTY:other Which is the best opening move in chess ?
+NUM:date What year did Spielberg make `` Jaws '' ?
+LOC:other Where is the Danube ?
+HUM:ind What 's the name of the star of the cooking show , `` Galloping Gourmet '' ?
+DESC:reason What was the claim to fame of the football game that saw Fordham defeat Waynesburg State 12601 on September 3 , 1939 ?
+ABBR:exp What does `` B.Y.O.B. '' mean ?
+LOC:other Where is Guam ?
+ENTY:substance What 's the most abundant element in the sun ?
+LOC:country What country owns Corsica ?
+HUM:ind What 1920s cowboy star rode Tony the Wonder Horse ?
+ENTY:veh What ocean liner burned and sank in Hong Kong harbor ?
+HUM:ind Who was the author of `` John Brown 's Body '' ?
+NUM:date When did Iraqi troops invade Kuwait ?
+DESC:def What is the definition of ` graphic details ' ?
+ENTY:food What powdered soft drink mix went into space ?
+ENTY:dismed What is a fear of rejection ?
+DESC:def What is the definition of cosmology ?
+HUM:ind Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?
+ENTY:sport What international sport was originally called hurley ?
+LOC:other Where is the Bulls basketball team based ?
+DESC:manner How does a bill become law ?
+HUM:ind Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
+LOC:other Where can I find info on research being done on oilseeds thru genetics ?
+NUM:date What month did the Edmund Fitzgerald sink ?
+DESC:def What 's a short ton ?
+DESC:reason What was the claim to fame of Explorer I , launched February 1 , 1958 ?
+HUM:ind What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?
+DESC:def What are chloroplasts ?
+NUM:count How many Leos have been Pope ?
+ENTY:cremat What 's the only work by Michelangelo that bears his signature ?
+LOC:city What U.S. city was named for St. Francis of Assisi ?
+NUM:date Hitler came to power in Germany in what year ?
+HUM:ind Whose singing voice was dubbed in for Natalie Wood in West Side Story and Audrey Hepburn in My Fair Lady ?
+ENTY:color What color are seven of every 10 houses in the U.S. ?
+ENTY:cremat What TV show did John Sebastian sing the theme for ?
+ABBR:exp What is HDLC ?
+LOC:other What is the longest river in the United States ?
+NUM:count How many different vegetation zones are there ?
+HUM:desc Who was Darius ?
+HUM:ind What comedian was The Perfect Fool ?
+NUM:count How many members of a family could be drafted in the U.S. military during World War II ?
+NUM:date What is the busiest air travel season ?
+ENTY:food What is the most radioactive food ?
+NUM:date What year was the NAACP founded ?
+ENTY:other What kind of patent did Ermal Fraze get in 1963 ?
+DESC:reason Why do eyes sometimes look red in photographs ?
+LOC:other Where are good science sites on the Internet ?
+HUM:ind What were the last names of gangsters Bonnie and Clyde ?
+DESC:def What is a wop ?
+LOC:other Where can I buy movies on videotape online ?
+NUM:dist How deep is a fathom ?
+DESC:desc What was the V-8 Juice slogan : `` the tastebud '' ?
+LOC:other What canal does the Thatcher Ferry Bridge span ?
+DESC:manner How does blood clot ?
+NUM:date When did they canonize the Bible ?
+NUM:dist How far out is the universe ?
+ENTY:cremat Jude Law acted in which film ?
+LOC:state What New England state carries the telephone area code 27 ?
+HUM:ind Who asked you to do the Loco-Motion with her in 1962 ?
+HUM:ind Who is Olive Oyl 's brother ?
+LOC:country What country has the best defensive position in the board game Diplomacy ?
+HUM:ind What former major-league left-handed baseball pitcher was known as `` Space Man '' ?
+ENTY:animal What relative of the racoon is sometimes known as the cat-bear ?
+ENTY:cremat Name a movie about the Sioux Indians starring Kevin Costner .
+DESC:manner How do you find out what is allowed to claim as a contibution for income tax purposes ?
+DESC:def What does `` extended definition '' mean and how would one write a paper on it ?
+NUM:count How many dots make up the symbol for `` because '' ?
+HUM:ind Who was President of Costa Rica in 1994 ?
+LOC:city What is the capital of Seattle ?
+NUM:count How many small businesses are there in the United States ?
+HUM:ind Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?
+ENTY:cremat What 1915 film was the first to gross $5 million ?
+DESC:desc What does Freddy Freeman say to become Captain Marvel Jr. ?
+ENTY:termeq What is a ball that hits the foul pole called ?
+NUM:dist How tall was the animated Frankenstein
+HUM:ind Who is the director and editor of the movie Big starring Tom Hanks ?
+HUM:gr What hockey team did Wayne Gretzky play for ?
+DESC:desc What does Choo Choo Charlie say ?
+ENTY:cremat What is the largest sculpture in the world ?
+LOC:country What Scandinavian country covers 173 , 732 square miles ?
+ENTY:food Which soft drink does Madonna advertise for ?
+NUM:ord What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?
+NUM:count How often are brain cells replaced ?
+NUM:date What is the date of Boxing Day ?
+HUM:ind Who built the first successful stern wheel steamboat ?
+ENTY:cremat Name the four stories contained in Edith Wharton 's `` Old New York . ''
+HUM:ind What is the most common name ?
+LOC:other What are tourist attractions in Reims ?
+ENTY:animal What animal occurs in Spielberg 's `` Jaws '' ?
+DESC:def What are the Low Countries ?
+DESC:def What are vermicilli , rigati , zitoni , and tubetti ?
+ENTY:other What 's the name of a golf course in Myrtle Beach ?
+HUM:ind Who led the Normans to victory in the Battle of Hastings ?
+ENTY:plant What flower did Vincent Van Gogh paint ?
+ABBR:exp What does S.O.S. stand for ?
+DESC:reason What is the function of RAM ?
+ENTY:product What is the fastest computer ?
+ENTY:animal What was the first domesticated bird ?
+HUM:gr What college enlivens Hanover , New Hampshire ?
+HUM:ind What president also became a supreme court justice ?
+DESC:desc What is the origin of the word `` attic '' ?
+ENTY:event What new year is celebrated on February 16th ?
+LOC:city What is the snowiest city in the U.S. ?
+ENTY:lang What are the two languages of Malta ?
+LOC:city What city did the Mormons establish as their headquarters in 1847 ?
+HUM:ind Who is the Antichrist ?
+HUM:ind What was the name of the first Watergate special prosecutor , later fired by Nixon ?
+HUM:ind What was the name of the first Russian astronaut to do a spacewalk ?
+ABBR:exp What does LOL mean ?
+HUM:desc Who is Desmond Tutu ?
+HUM:ind What famous male vocalist has the same name as the composer of the opera Hansel and Gretel ?
+ENTY:substance What are the four elements ?
+LOC:country What country was Mikhail Gorbachev the leader of ?
+NUM:count How many quarters equal a pound ?
+ENTY:dismed What is a fear of strong light ?
+NUM:count How many electoral college votes does Colorado have ?
+NUM:date When does menstruation begin ?
+LOC:other Where is Inoco based ?
+NUM:period How long did the Paris Commune hold out for against the rest of France ?
+LOC:other Where did cable cars first roll down Clay Street in 1873 ?
+ENTY:food What is Nero Wolfe 's favorite drink during office hours ?
+LOC:other Where did Wile E. Coyote always get his devices ?
+LOC:city What city would you be in if you were feeding the pigeons in the Piazza San Marco ?
+DESC:def What is hypertext ?
+ENTY:substance What are the most common elements in the Earth 's crust ?
+LOC:city What is one of the cities that the University of Minnesota is located in ?
+ENTY:other What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?
+HUM:ind Who was the captain of the tanker , Exxon Valdez , involved in the oil spill in Prince William Sound , Alaska , 1989 ?
+ENTY:termeq The Jewish alphabet is called what ?
+NUM:date What time of year do most people fly ?
+DESC:def What is magnetar ?
+DESC:def What is a caldera ?
+ENTY:event What civil war was fought between 1936 and 1939 ?
+ENTY:dismed What infectious disease is the world 's deadliest ?
+HUM:ind Who is the director of the international group called the Human Genome Organization , HUGO , that is trying to coordinate gene-mapping research worldwide ?
+LOC:other Where can I buy a hat like the kind Jay Kay from Jamiroquai wears ?
+DESC:reason Why are organ transplants more successful today ?
+HUM:ind What TV comedian worked with White Fang , Black Tooth and Pookie the Lion ?
+ENTY:other What did British companies stick 175 , 0 tons of tea into in 1982 ?
+HUM:ind What hockey player did Ronald Reagan joke he would swap Texas for ?
+LOC:country Name a country that is developing a magnetic levitation railway system ?
+NUM:count How many James Bond novels are there ?
+HUM:ind Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?
+LOC:city What was the first town to be chartered in Vermont ?
+ENTY:techmeth What interesting method was used to run the credits in the early Popeye cartoons ?
+DESC:def What is recruitment interview technique ?
+ENTY:other What is April 's gemstone ?
+LOC:country Jackson Pollock is of what nationality ?
+LOC:other What is the best online games site ?
+HUM:ind Who says , `` If you don 't look good , we don 't look good '' ?
+ENTY:event What events happened January 26 , 1978 ?
+DESC:def What do the names Neil , Mary , and Anthony mean ?
+HUM:ind What was the name of the lawyer who represented Randy Craft ?
+NUM:count How many elevators do you ride to reach the top floor of the Empire State Building ?
+HUM:ind Who found Hawaii ?
+HUM:ind What two baseball players make up the battery ?
+NUM:count How many events make up the decathlon ?
+DESC:manner How do you use `` farther '' as opposed to `` further '' ?
+NUM:count What is the goat population of the world ?
+LOC:state What state was named the Green Mountain state ?
+ENTY:veh What vehicles are raced in the Tour de France ?
+LOC:other Where did the Battle of the Bulge take place ?
+ENTY:product What kind of hat does Bat Masterson wear ?
+ENTY:symbol What sign is The Water Carrier the zodiacal symbol for ?
+DESC:reason Why are there olives in martinis ?
+ENTY:cremat What Frederick Forsyth novel chronicles the toppling of an African government by mercenaries ?
+DESC:def Define Spumante .
+ENTY:other What is the longest chemical name , consisting of 35 letters ?
+DESC:def What is `` flintknapping '' ?
+LOC:city Which city in Canada is the least-populated ?
+DESC:reason Why does the sun shine only a short time in Alaska ?
+HUM:ind What cigar-chewing comedian observed : `` You 're only as old as the woman you feel '' ?
+HUM:title What is Nicholas Cage 's occupation ?
+LOC:state What U.S. state has the most blondes ?
+ENTY:cremat What Judith Rossner novel was made into a film starring Diane Keaton ?
+NUM:dist What is the world record for the longest hair ?
+NUM:period How long does it take the typical American to eat 23 quarts of ice cream ?
+ENTY:other A corgi is a kind of what ?
+ENTY:sport What are new computer games for Windows 95 or 98 ?
+HUM:gr What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?
+DESC:desc What are the major differences in the Catholic and Methodist religions ?
+DESC:desc What clause in the U.S. Constitution may not be changed , altered or amended ?
+ENTY:termeq What does caliente translate to in English ?
+DESC:reason Why do you say `` God bless you '' when people sneeze ?
+HUM:ind The name of the actor who played the detective in the film Kindergarden Cop is what ?
+DESC:def What does `` antidisestablishmentarianism '' mean ?
+ENTY:dismed What is the fear of frogs ?
+DESC:def What 's the meaning of the zoological term ruminant ?
+HUM:ind Who was actress June Havoc 's legendary sister ?
+LOC:country What country saw the origin of the Asian Flu ?
+DESC:desc What can be done about snoring ?
+NUM:count How many miles is it to Ohio from North Carolina ?
+HUM:ind What 's the name of Tom Sawyer 's aunt with whom he lives ?
+LOC:country What country is home to Heineken beer ?
+ENTY:plant What shrubs can be planted that will be safe from deer ?
+LOC:country What southeast Asian country has the Wang River joining the Ping River at Tak ?
+HUM:ind Who is always trying to get the rent from Andy Capp ?
+LOC:state What state in the United States covers the largest area ?
+NUM:period What is the average time to kiss somene ?
+NUM:count How many votes in Congress dissented from the 1941 declaration of war with Japan ?
+ENTY:other What meter did Shakespeare use in writing : `` To be , or not to be , that is the question.. . '' ?
+NUM:date When will Jean Aeul publish her next book ?
+ENTY:event What war did the Wanna-Go-Home Riots occur after ?
+NUM:dist How high is the city of Denver ?
+HUM:ind What was the player 's name who played nose tackle for the Eagles in Super Bowl XV ?
+NUM:count How many lakes are there on the Earth ?
+LOC:other Where are the leading medical groups specializing in lung diseases ?
+ENTY:cremat What Jules Verne novel features scientists held captive in the submarine Nautilus ?
+DESC:manner How do I log on to home page at Headquarters U.S. European Command ?
+DESC:def What is a conifer ?
+NUM:count How much Coca Cola is drunk in one day in the world ?
+ENTY:sport What European race sees the winner of its mountain stage awarded a jersey with large red polka dots ?
+ENTY:cremat Name four comic strips about pilots .
+LOC:other Where can I find a website that gives comparisons of good prices ?
+HUM:ind What journalist can be found in and around Walden Puddle ?
+DESC:manner How do I start a bank ?
+LOC:other What is the geographical center of the US including Alaska and Hawaii ?
+NUM:count How many equal sides are there on a scalene triangle ?
+ENTY:dismed What is a fear of being dirty ?
+HUM:ind Who won two gold medals in skiing in the Olympic Games in Calgary ?
+DESC:def What is Tetrinet ?
+NUM:perc What percent liked Thatcher after she had been in power for a decade ?
+ABBR:exp What does the abbreviation AIDS stand for ?
+LOC:city What city in the U.S. experienced the most growth recently ?
+LOC:other What natural attractions draw the most visitors in the United States ?
+NUM:date In which year was New Zealand excluded from the ANZUS alliance ?
+HUM:ind Who declared : `` I think I 'll go out and milk the elk '' ?
+NUM:count How many years of bad luck follow breaking a mirror ?
+ENTY:animal What five-time winner of the Kentucky Derby lost his first 25 races ?
+LOC:country What country has been called The Queen of the Antilles ?
+DESC:def What is hebephrenia ?
+DESC:def What is Eagle 's syndrome styloid process ?
+LOC:country What is the most important nation in the world , historically ?
+LOC:state What are all the southern states of the U.S. ?
+NUM:other What is the protection rate of using condoms ?
+ENTY:event What was the longest war in U.S. history ?
+HUM:ind What Spanish artist painted Crucifixion ?
+NUM:count How many points is a disk in the center hole worth in Crokinole ?
+HUM:ind Who won the 1967 Academy Award for Best Actor ?
+HUM:gr What major airline has the best safety record in the world ?
+HUM:ind What American poet wrote : `` Good fences make good neighbors '' ?
+HUM:ind Who portrayed The Cowardly Lion in The Wizard of Oz ?
+NUM:period How long does a dog sleep ?
+NUM:period How old was Sir Edmund Hillary when he climbed Mt. Everest ?
+LOC:other Where 's the Bernini-Bristol Hotel ?
+LOC:country What is the name of the country which Hitler ruled ?
+HUM:ind Name the various costumed personas of Dr. Henry Pym .
+HUM:ind What poet wrote : `` ... I have promises to keep , and miles to go before I sleep '' ?
+ENTY:color What color are a cherry tree 's flowers ?
+DESC:manner How do plants make food ?
+NUM:date When was child labor abolished ?
+NUM:count How much caffeine is in a 16 oz cup of coffee ?
+ENTY:cremat What TV series saw many of its aquatic scenes shot at Silver Springs , Florida ?
+NUM:count How many people died on South Carolina highways in 1998 ?
+ENTY:body Where does your hair grow the fastest ?
+NUM:date When did the neanderthal man live ?
+ENTY:cremat In what film did Steven Spielberg 's dog star as the main character 's dog ?
+LOC:other Where is McCarren Airport located ?
+LOC:other Where can I get a complete listing of showtimes in my area ?
+ENTY:food What beer is ` rockin ' America ? ''
+ENTY:cremat What daily newspaper will `` help you see clearer across the USA '' ?
+NUM:other What are the statistics for drunken drivers in Maryland ?
+HUM:ind Who is currently the most popular singer in the world ?
+HUM:ind What is her husband 's name ?
+HUM:ind What was Al Capone 's nickname ?
+NUM:date What is Martin Luther King Jr. 's real birthday ?
+ENTY:other What is an example of a natural acid-base indicator ?
+ENTY:termeq What is Shirley MacLaine known as ?
+ENTY:sport What is the name of the game that Garry Kasparov plays ?
+LOC:other Where do lobsters like to live ?
+DESC:manner How do you recognize anorexia ?
+NUM:date When was the Congress of Vienna ?
+HUM:ind Who loved Flash Gordon besides Dale ?
+HUM:title What does Larry King do for a living ?
+NUM:other What are the unemployment statistics for the years 1965 and 1990 ?
+LOC:mount What mountains lie between the Arkansas and Missouri rivers ?
+NUM:money How much will gas be taxed in California by the year 2000 ?
+ENTY:techmeth What are the four natural aids used in riding a horse ?
+ABBR:exp What is the full form of .com ?
+LOC:city What African capital is named for a U.S. president ?
+DESC:reason Why do girls have to wear training bras ?
+NUM:other What are the shoe sizes of O 'Neal , Jordan , and Mutombo , the NBA players ?
+DESC:desc What 's the state motto of California ?
+LOC:other What is the best place to live in the world , considering climate , civilization ?
+ENTY:cremat Which magazine is `` fine entertainment for men '' ?
+HUM:ind Who invented the game bowling ?
+LOC:other Where did Luther display his `` Ninety-Five Theses '' ?
+DESC:def What is infomatics ?
+DESC:manner How did names come about ?
+HUM:ind Name the cartoon genie conjured by the magic ring shared by Nancy and Chuck .
+DESC:reason What 's the claim to fame of night watchman Frank Wills ?
+DESC:def What are liver enzymes ?
+HUM:gr What was the first U.S.-based team in the NHL ?
+ENTY:color What color of dry wine should be served with veal roasts and chops ?
+ENTY:animal What 's the only mammal that can 't jump ?
+LOC:other Where on the Internet can I get chemicals importers ?
+HUM:gr What are the five most popular Usenet groups ?
+ENTY:other What does a chairbound basophobic fear ?
+HUM:ind Who created the character of Scrooge ?
+ENTY:cremat What film dramatized the Scopes monkey trial ?
+DESC:manner How do you dunk ?
+DESC:def What do the figures represent on the Easter Island ?
+ENTY:cremat What is Beethoven 's 9th symphony called ?
+DESC:reason What causes rust ?
+NUM:money What amount of money did the Philippine ex-dictator Marcos steal from the treasury ?
+HUM:ind What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?
+NUM:count How many people die of tuberculosis yearly ?
+LOC:state In what state was there an 11 million gallon oil spill ?
+NUM:other What 's the population of Mississippi ?
+ENTY:animal What kind of creatures are black , yellow , and brown bullheads ?
+NUM:date When did Theo Rousseau paint the `` Forest of Fontaine '' ?
+DESC:reason Why do people shake hands to show friendliness ?
+ENTY:dismed What is a fear of sourness ?
+NUM:count How many maids were milking ?
+DESC:desc What is the difference between a bachelor and a 1 bedroom apartment ?
+HUM:ind Who recorded the 1957 hit Tammy ?
+NUM:count How many people was Randy Craft convicted of killing ?
+DESC:desc What is the origin of thank you notes ?
+ENTY:food What foods contain vitamin B12 ?
+ENTY:food What drink contains as many types of rum as possible ?
+ENTY:dismed What is a fear of glass ?
+ENTY:animal What racehorse won an Associated Press poll as the greatest horse of the 20th century ?
+ENTY:animal What animal dined on bread and oysters with a carpenter ?
+HUM:ind What barroom judge called himself The Law West of the Pecos ?
+DESC:def What does the name ` Alexandra ' mean ?
+DESC:def What is the definition of `` chancery '' file in real estate ?
+DESC:reason Why does a candle go out when we blow on it ?
+ABBR:exp What is AFS ?
+DESC:def What is humidity ?
+ENTY:other What is after death ?
+ENTY:substance What are fingernails made of ?
+ENTY:substance What kind of crystals exist ?
+ENTY:cremat What is the folklore story regarding birds ' nests and birds in Christmas trees ?
+HUM:ind What Asian spiritual and political leader was married at the age of 13 ?
+LOC:city What Kenyan city is the safari center for East Africa ?
+HUM:ind What detective lives on Punchbowl Hill and has 11 children ?
+DESC:def What is time ?
+HUM:gr Who are the nomadic hunting and gathering tribe of the Kalahari Desert in Africa ?
+NUM:dist How far is London UK from California ?
+DESC:def What is the executor in a will ?
+DESC:desc What are some chemical properties of mendelevium ?
+DESC:desc What is the origin of the word `` sideburns '' ?
+HUM:gr What chocolate company gives you a one-pound kiss ?
+ENTY:cremat What was John F. Kennedy 's 1960 campaign song ?
+LOC:mount What is New England 's highest mountain ?
+ABBR:exp What does e.g. stand for ?
+DESC:manner How can I find out which cities have cable-modem access ?
+ENTY:plant What plant has the largest seed ?
+LOC:other Where did Sarge Steel get his metal hand ?
+HUM:ind Who is the owner of CNN ?
+ENTY:animal What animal do buffalo wings come from ?
+DESC:def What is limbo ?
+HUM:ind Who was the first X-Man to die in battle ?
+LOC:other What Mediterranean island is home to the first Club Med ?
+LOC:country Jackson Pollock was a native of what country ?
+DESC:def What do the 12 days of Christmas mean ?
+DESC:manner How do you throw a housewarming party ?
+LOC:mount What is the second highest mountain peak in the world ?
+NUM:temp How hot should the oven be when baking Peachy Oat Muffins ?
+NUM:count How many Russians have landed on the moon ?
+NUM:date What century does Captain Video live in ?
+ENTY:animal What type of animal is the easiest kept pet there is ?
+ENTY:dismed What is a fear of everything ?
+LOC:other Where are the tropical rain forest distributions ?
+DESC:def What is Sinn Fein ?
+DESC:reason What is Colin Powell best known for ?
+DESC:reason What is the purpose of a car bra ?
+HUM:ind Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?
+LOC:mount What 's the second-highest mountain in the world ?
+LOC:country What country is the worlds leading supplier of cannabis ?
+ENTY:substance What fuel do airplanes use ?
+DESC:desc What is the nature of snow and how is the formation of snow different from that of ice ?
+LOC:city What city 's the kickoff point for climbs of Mount Everest ?
+LOC:country What country did the Allies invade in World War II 's Operation Avalanche ?
+NUM:perc What percentage of the world 's plant and animal species can be found in the Amazon forests ?
+HUM:ind Who said `` the only thing we have to fear is fear itself '' ?
+LOC:country Which country did Hitler rule ?
+DESC:desc What is the origin of the name Igor ?
+ENTY:techmeth What is the best way to travel in Japan ?
+HUM:ind Who killed Martin Luther King ?
+ENTY:cremat What Leoncavallo opera features a prologue by a clown ?
+LOC:country What is Stefan Edberg 's native country ?
+DESC:reason Why can 't you taste anything when you have a cold ?
+HUM:ind Who 's The King of Swing ?
+LOC:other What island was the target of the U.S. 's Operation Urgent Fury ?
+DESC:manner How can I get in touch with Michael Moore of `` Roger & Me '' ?
+NUM:date When did Gothic art and architecture flourish ?
+LOC:other What is the oldest website on the Internet ?
+DESC:manner How do I find a snowboarding website ?
+NUM:count How many times larger than life size is the Statue of Liberty ?
+ENTY:dismed For what disease is the drug Sinemet used as a treatment ?
+HUM:ind What is Goldfinger 's first name ?
+DESC:desc What was the rallying cry of the early American revolutionaries ?
+NUM:money What is the fine for having a dog on a beach ?
+HUM:ind Who made the first gas engine ?
+DESC:reason Why did Europeans first come to Australia and Oceania ?
+HUM:ind Who created Dennis the Menace ?
+LOC:other What kind of habitat does the scorpion live in ?
+ENTY:other What is the smallest thing seen under the most powerful microscope , and how big is it ?
+ENTY:product What shampoo prevents eczema , seborrhea , and psoriasis ?
+NUM:date What month were you born in if your birthstone is sardonyx ?
+LOC:city What 's the capital of Taiwan ?
+DESC:manner How does a rainbow form ?
+HUM:desc Who is Charles Lindbergh ?
+ABBR:exp What does G.M.T. stand for ?
+LOC:other What California bridge was Don Brown the first to cross , on May 27 , 1937 ?
+NUM:dist How wide is the Atlantic Ocean ?
+ENTY:event What war did Johnny Reb and Billy Yank fight ?
+LOC:state What state did Helen Keller call home ?
+LOC:country What nation boarders Mozambique ?
+ENTY:other What is Grenada 's main commodity export ?
+DESC:reason Why are peanut butter cookies topped with crisscrosses ?
+HUM:ind What multitalented Academy-award-winning director failed a college course in motion-picture production ?
+HUM:ind What are the names of Jacques Cousteau 's two sons ?
+NUM:date When did Amtrak begin operations ?
+DESC:manner How do they find or choose witnesses to an execution ?
+DESC:def What was the Vietnam War ?
+NUM:date When did the `` Star-Spangled Banner '' become the national anthem ?
+HUM:ind Who started the Dominos Pizza chain ?
+HUM:ind What are the characters ' names in the Scooby-Doo cartoon ?
+DESC:desc What is the difference between a generator and an alternator ?
+ENTY:cremat What is the Jewish bible called ?
+DESC:desc What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ?
+NUM:count How many men died building the Mackinaw Bridge ?
+HUM:ind What U.S. senator once played basketball for the New York Knicks ?
+HUM:gr What is the name of the company that manufactures the `` American Girl '' doll collection ?
+LOC:country What 's the only East european country not tied to the ruble ?
+NUM:count How many propellers helped power the plane the Wright brothers flew into history ?
+DESC:desc What is the origin of the first name ` Breony ' ?
+ENTY:currency What type of currency is used in China ?
+HUM:gr Which police department made the largest cocaine seizure ever in Ventura County ?
+DESC:def How can you define time ?
+DESC:reason Why is Chicago named Chicago ?
+DESC:desc What is the origin of infinity ?
+NUM:period How long does the average domesticated ferret live ?
+NUM:period What is the average age a horse lives ?
+DESC:def What is cunnilingus ?
+DESC:def What 's the meaning of UOL ?
+LOC:city What European capital celebrated its 2 , 000th anniversary in 1951 ?
+ENTY:dismed What is a fear of cold ?
+ENTY:other What is the lowest level of the American judiciary ?
+DESC:def What is tumbled marble ?
+HUM:gr Name Pittsburgh 's baseball team .
+ENTY:cremat What magazine paid Ernest Hemingway $15 a word to write a bullfighting article ?
+HUM:ind What is the nickname of the famous flyer who mistakenly flew to Ireland instead of to Los Angeles ?
+DESC:desc What is the orgin of xoxoxox ?
+NUM:date When is a woman most fertile ?
+ENTY:other What killed Bob Marley ?
+ENTY:cremat What TV show premiered on January 15 , 1981 ?
+DESC:def What is a wet dream ?
+DESC:def What is the virus HIV ?
+NUM:count How many names are there for Eskimo people ?
+HUM:ind Who is the richest woman in the world ?
+ENTY:termeq Aspartame is also called what ?
+DESC:reason Why are there letters on the telephone ? Why are there no Q or Z ?
+HUM:ind Who did Sonny Liston succeed as world heavyweight boxing champion ?
+HUM:ind Name the blind sculptress in love with the Fantastic Four 's Thing .
+ENTY:techmeth What are three ways in which wind is created on the earth ?
+DESC:def What does the name `` Sabrina '' mean ?
+NUM:money How much does it cost to have a tree planted by dialing , 900 , 740-TREE ?
+DESC:reason What were the causes of the Civil War ?
+LOC:country What countries have the highest ratio of university students ?
+ENTY:other What do humans catch zoonose diseases from ?
+DESC:def What is the chemiosmotic theory ?
+LOC:state What state full of milk and honey was the destination in The Grapes of Wrath ?
+HUM:ind What actor has a tattoo on his right wrist reading Scotland Forever ?
+LOC:city Which large U.S. city had the highest murder rate for 1988 ?
+DESC:def What is a geoscientist ?
+ENTY:food What were the first frozen foods ?
+NUM:count How many bones are in the human hand ?
+LOC:state What state is Mount McKinley in ?
+NUM:count How many real fruit juices are there in a can of Hawaiian Punch ?
+HUM:ind What father and son won the Medal of Honor ?
+DESC:manner How do you get a pointsettia to turn red ?
+DESC:def What are the alveoli ?
+HUM:ind What actress starred in `` The Lion in Winter '' ?
+ENTY:sport Garry Kasparov plays what game ?
+LOC:other What is the largest shopping mall in the world ?
+HUM:gr What organization did Mr. Waverly assign agents for ?
+LOC:other Where do you find the answers for all these questions ?
+LOC:other What are some good fractal web sites ?
+NUM:period How long does a fly live ?
+NUM:count How many American soldiers are stationed in South Korea ?
+HUM:title What was Eduard Shevardnadze 's job in the Soviet Union ?
+ENTY:cremat What did Woody Allen call the Japanese gangster film he dubbed into English as a comedy ?
+DESC:manner How do I write to my Congressman ?
+HUM:gr What presidential administration challenged Americans to explore The New Frontier ?
+HUM:ind Who was the first English circumnavigator of the globe ?
+HUM:gr What stereo manufacturer is `` Slightly ahead of its time '' ?
+NUM:count How many states did Richard Nixon carry in 1972 ?
+HUM:ind Who played for the Chicago Bears , Houston Oilers and Oakland Raiders in a 26-year pro football career ?
+LOC:other Where did Bill Gates go to college ?
+DESC:desc What are the benefits of a rowing machine ?
+HUM:ind What baseball team owner and sailor is known as The Mouth of the South ?
+DESC:reason Why are sometimes your hands cold , but the rest of you isn 't ?
+ENTY:termeq What is the name of the art of growing miniature trees ?
+ENTY:animal What four-legged creature did a Cornell University study say would make man 's best companion in space ?
+DESC:desc What did the only repealed amendment to the U.S. Constitution deal with ?
+ENTY:cremat What film marked Robert Redford 's directorial debut ?
+DESC:def What does the dot on the letter i mean ?
+HUM:ind Who is King in Alley Oop 's home of Moo ?
+LOC:city What Colorado city owns its own glacier ?
+LOC:other Where do hyenas live ?
+HUM:ind Who was International Olympic Committee chairman at the 1936 Summer Games ?
+NUM:volsize How big is the universe actually ?
+LOC:other What island group contains Jersey , Guernsey , Sark and Herm ?
+ENTY:cremat What Tom Wolfe book is about the Mercury astronauts ?
+DESC:desc What is the origin of `` barbeque '' ?
+LOC:other What continent 's name appears on the upper left corner of a Budweiser label ?
+LOC:city What city is terrorized by Dracula in The Night Stalker ?
+NUM:count How much stronger is the new vitreous carbon material invented by the Tokyo Institute of Technology compared with the material made from cellulose ?
+HUM:gr What is the best Internet business to go into ?
+LOC:country What country did the Nile River originate in ?
+NUM:date When did Thatcher become prime minister ?
+DESC:desc What is the origin of the Christmas tree ?
+NUM:date What is Dick Clark 's birthday ?
+NUM:date When are the Oscars Academy Awards in 1999 ?
+HUM:ind Name the On Stage character whose face was never seen .
+ENTY:cremat What novel has Big Brother watching ?
+HUM:ind Who established a Viking colony in Greenland about 985 ?
+HUM:ind Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ?
+ENTY:letter What vowel do all Esperanto nouns end in ?
+NUM:count How many people in Tucson ?
+ENTY:product Name the product that is `` at your grocer 's , at your fingertips . ''
+DESC:reason What is Margaret Thatcher known for ?
+NUM:count How many types of dogs ' tails are there - three
+DESC:reason Why is Rush 's 2112 called 2112 ?
+ENTY:other What were millions of kids wearing on their heads in 1955 ?
+LOC:other Where have the most dinosaur remains been found ?
+ENTY:cremat What movie told of Anna Anderson 's claim to be a Russian czar 's daughter ?
+ENTY:other What was the 24-disc John Gabel Entertainer the first example of , in 1960 ?
+ENTY:other What is Bella Abzug 's sartorial trademark ?
+ENTY:food Madonna advertises for what soft drink ?
+ENTY:dismed What is the fear of being loved ?
+ENTY:veh What kind of rocket launched the Surveyor spacecraft ?
+HUM:ind What name does the world know Renaissance artist Kyriakos Theotokopoulos by ?
+ENTY:other What did Warlock wear on his forehead in Marvel comics ?
+NUM:date When does the average teenager first have intercourse ?
+ENTY:cremat What British TV series featured Emma Peel ?
+ENTY:other What dropped 1 , 313 feet in 1980 ?
+HUM:gr What company was the original sponsor of TV 's Superman ?
+LOC:other Where did Dikembe Mutombo go to college ?
+LOC:country What country was the setting of You Only Live Twice ?
+ENTY:cremat What William Makepeace Thackeray novel was made into a film by Stanley Kubrick ?
+NUM:count How many zip codes are there in the U.S. ?
+HUM:ind Who is the fastest swimmer in the world ?
+LOC:country What African country is governed from Ouagadougou ?
+HUM:ind Who sells Viagra ?
+HUM:ind What President was buried at his ancestral home overlooking the Hudson River at Hyde Park , New York ?
+DESC:reason What is Betsy Ross famous for ?
+ENTY:word What 's the international radio code word for the letter B ?
+ENTY:food Which breakfast cereal brought you `` the best each morning '' ?
+HUM:ind Who created the character James Bond ?
+NUM:date When did the Berlin Wall go up ?
+ENTY:event What are some science fair projects for 8th graders ?
+ENTY:food Which of many numbered vats of Scotch was judged best by a panel of experts in 1863 ?
+ENTY:cremat What tale has the moral : `` He who wants everything gets nothing '' ?
+LOC:other What Metropolis landmark was first introduced in the Superman cartoons of the 1940 's ?
+NUM:speed What is the speed of the Mississippi River ?
+ENTY:cremat What was the sequel to The Moon 's Balloon ?
+ENTY:lang What is the main language of Sao Paulo , Brazil ?
+ENTY:cremat What is the first book of the Old Testament ?
+DESC:def What does Aaron mean ?
+ENTY:event What war did Florence Nightingale tend the troops in ?
+DESC:manner How do you measure the heat of the sun ?
+DESC:def What does the name `` Anthony '' mean ?
+DESC:manner How do you write a correct critical analysis of a poem ?
+DESC:reason Why are electric cars less efficient in the northeast than in California ?
+NUM:count How many Community Chest cards are there in Monopoly ?
+NUM:date When was the first flush toilet invented ?
+LOC:other What California bridge was Don Brown the first to cross , on May 27 , 1937 ?
+HUM:ind Who wrote the book , `` Huckleberry Finn '' ?
